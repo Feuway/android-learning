@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LifeCycle</string>
+
+    <string name="text_view">Приложение запущено впервые</string>
+    <string name="btn_touch_me">Коснись меня</string>
+    <string name="btn_exit">Выход</string>
+</resources>
