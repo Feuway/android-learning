@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.nav_camera) {
-            fragmentClass = ImportFragment.class;
+            fragmentClass = SocialMediaFragment.class;
         } else if (id == R.id.nav_gallery) {
             fragmentClass = GalleryFragment.class;
         } else if (id == R.id.nav_slideshow) {
