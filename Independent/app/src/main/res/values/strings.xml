@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Independent</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_layout1">Linear Layout</string>
+    <string name="title_activity_layout2">Food Choose</string>
+    <string name="title_activity_layout3">Relative Layout</string>
+    <string name="title_activity_layout4">Cat</string>
+    <string name="title_activity_layout5">TimerWatch</string>
+</resources>
